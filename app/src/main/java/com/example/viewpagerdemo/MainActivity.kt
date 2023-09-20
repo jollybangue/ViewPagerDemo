@@ -1,3 +1,5 @@
+// A small Android app to experiment view pager features.
+
 package com.example.viewpagerdemo
 
 import androidx.appcompat.app.AppCompatActivity
